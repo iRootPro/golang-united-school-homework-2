@@ -10,7 +10,7 @@ import "math"
 // CalcSquare(10.0, SidesSquare)
 // CalcSquare(10.0, SidesCircle)
 
-var intCustomType int
+type intCustomType int
 
 const SidesTriangle = 3
 const SidesSquare = 3
